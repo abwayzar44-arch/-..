@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "واتساب أبو إيزار",
+    "slug": "whatsapp-abu-izzar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.abwayzar.whatsapp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6f92e8b3-68a5-446c-b3d9-2e9c058c3ab7"
+      }
+    }
+  }
+}
