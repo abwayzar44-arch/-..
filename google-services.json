@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015112444397",
+    "project_id": "whatsappizar",
+    "storage_bucket": "whatsappizar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015112444397:android:ea8ddc36784c6dfce8dfe4",
+        "android_client_info": {
+          "package_name": "com.abwayzar.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFuK-kIMvk8URkTHBkrDrw2ZcsaFqviW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
